@@ -1,0 +1,15 @@
+name: adaptive_projective_norm
+channels:
+  - pytorch
+  - nvidia
+  - defaults
+  - conda-forge
+
+dependencies:
+  - python=3.10
+  - numpy
+  - matplotlib
+  - itertools
+  - tqdm
+  - pytorch::pytorch
+  - nvidia::cudatoolkit=11.8
