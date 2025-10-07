@@ -1,6 +1,6 @@
 # Adaptive Projective Norm
 
-This repository contains the code for calculating the projective norm of a multipartite quantum state tensor using a gradient-descent based algorithm. 
+This repository contains the code for calculating the projective norm of a multipartite quantum state tensor using a gradient-descent based algorithm. You can find the paper [here](https://arxiv.org/abs/2508.07933).
 
 ## Installation Instructions
 
